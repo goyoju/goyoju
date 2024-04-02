@@ -17,7 +17,7 @@
 Hello, World! 👐 <br>
 My name is Junyoung (Jay) Seo, and I am majoring in Data Science at Boston University.<br><br>
 I constantly seek new challenges as demonstrated by my personal projects focusing on<br>
-data visualization, analysis, and predictive modeling using real-world datasets<br>
+data visualization, analysis, and predictive modeling using real-world datasets.<br>
 </p>
 
 <br>
